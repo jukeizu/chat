@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package chat;
+
+service Chat {
+    rpc  SendMessage(SendMessageRequest) returns (SendMessageReply) {}
+}
+
+message SendMessageRequest {
+    string message = 1;
+}
+
+message SendMessageReply {
+    string message = 1;
+}
