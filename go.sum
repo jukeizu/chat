@@ -1,0 +1,8 @@
+github.com/jukeizu/contract v0.0.3 h1:RD34qsJhyyXhpb0wENT8yA84EIMLHb8l4w7534Qm128=
+github.com/jukeizu/contract v0.0.3/go.mod h1:aVjy5DMYaMeau/X9geP9BQczGhhM99ppGf+gpRCVr+c=
+github.com/rs/xid v1.2.1 h1:mhH9Nq+C1fY2l1XIpgxIiUOfNpRBYH1kKcr+qfKgjRc=
+github.com/rs/xid v1.2.1/go.mod h1:+uKXf+4Djp6Md1KODXJxgGQPKngRmWyn10oCKFzNHOQ=
+github.com/rs/zerolog v1.11.0 h1:DRuq/S+4k52uJzBQciUcofXx45GrMC6yrEbb/CoK6+M=
+github.com/rs/zerolog v1.11.0/go.mod h1:YbFCdg8HfsridGWAh22vktObvhZbQsZXe4/zB0OKkWU=
+github.com/ugjka/cleverbot-go v0.0.0-20181113132206-820458cebd7b h1:aZzm1PlT23R77r95LYwr01CIDrqAlwB7xeHTsqQjbUg=
+github.com/ugjka/cleverbot-go v0.0.0-20181113132206-820458cebd7b/go.mod h1:IbIb5Zooqv8AxacEHaq/o+XXy/q2TSk4NkSP4E8TW2w=
